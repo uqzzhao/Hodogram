@@ -1,3 +1,5 @@
+![Hodogram](https://github.com/uqzzhao/Hodogram/blob/master/examples/hodogram.png)
+
 # Hodogram
 A Qt C++ demo tool for hodogram analysis in microseismic imaging.  
 
